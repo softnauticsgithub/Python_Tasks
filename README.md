@@ -5,7 +5,7 @@ The aim of this repository is serve interest of Python Development in multiple w
 > Feel free to **contribute**. 
 # How to Contribute Ideas / Tasks?
 
- 1. Start a [Discussion(https://github.com/softnauticsgithub/Sarth_Vadgama_Tasks/discussions).
+ 1. Start a [Discussion](https://github.com/softnauticsgithub/Sarth_Vadgama_Tasks/discussions).
  2. Discussion name should be proper and identifiable. 
  3. Submit your work by creating a PR.
  4. Mention the PR in discussion when ready to be added.
